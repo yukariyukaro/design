@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "src": "/",
+      "dest": "/design.html"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/design.html"
+    }
+  ]
+}
